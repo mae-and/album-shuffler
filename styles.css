@@ -1,0 +1,38 @@
+body {
+  background-color: #ee702c;
+  text-align: center;
+  font-family: monospace;
+  font-size: 24px;
+}
+
+h1 {
+  text-align: center;
+  text-decoration-color: #fffff8;
+}
+
+h4 {
+  font-weight: lighter;
+}
+
+button {
+  margin: 20px;
+  border-radius: 100px;
+  background-color: black;
+  border: 3px solid black;
+  color: black;
+  font-size: 16px;
+  padding: 16px 24px;
+  line-height: 40px;
+  text-decoration: none;
+  transition: all 200ms ease;
+}
+
+button:hover {
+  color: FFFFF8;
+  background: #ee702c;
+}
+
+.random {
+  width: 250px;
+  height: 250px;
+}
